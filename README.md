@@ -8,5 +8,6 @@ A project that would autonomously build a browser from scratch using python and 
 
 ## Getting Started
 
-1. Install dependencies: `pip install -r requirements.txt`
-2. Run orchestrator agent: `python run.py`
+1. Add Anthropic key: `export ANTHROPIC_API_KEY=YOUR_KEY`
+2. Install dependencies: `pip install -r requirements.txt`
+3. Run orchestrator agent: `python run.py`
