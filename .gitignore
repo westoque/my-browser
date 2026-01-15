@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Environment
+.env
+.venv
+env/
+venv/
+
+# Data
+data/
+
+# IDE/Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local settings
+.claude/settings.local.json
